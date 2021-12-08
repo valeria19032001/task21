@@ -22,7 +22,8 @@
 1. Дизайн-студия имени Слишком Известного Персонажа
 Ниже пример кода из нашего приложения:
 
-```<span class="pl-c1">selector</span>
+```
+<span class="pl-c1">selector</span>
 <span class="pl-c1">font-family</span>
 <span class="pl-kos">:</span>
 <span class="pl-s">"Awesome"</span>
@@ -31,8 +32,7 @@
  sans-serif;
   <span class="pl-c1">color</span>
 <span class="pl-kos">:</span>
- red; ```
+  red;
 }
-
 
 ```
