@@ -24,7 +24,7 @@
 
 
 <foreignObject width="100%" height="100%">
-```
+
 <div class="highlight highlight-source-css position-relative overflow-auto" data-snippet-clipboard-copy-content=".selector {
   font-family: &quot;Awesome&quot;, Arial, sans-serif;
   color: red;
@@ -34,7 +34,7 @@
   <span class="pl-c1">color</span><span class="pl-kos">:</span> red;
 }</pre></div>
 
-```
+
     </foreignObject>
 
 
